@@ -1,0 +1,7 @@
+from queue import Queue
+	def pageFaults(pages, n, capacity):
+	s = set()
+
+	indexes = Queue()
+	page_fault = 0
+	for i in range(n)
